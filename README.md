@@ -28,3 +28,4 @@
 
 ## Demonstration:
 ![Live Demo](https://github.com/knileshh/ReactReduxToDo/blob/main/public/Code_oqZZdCOTif.gif)
+**NOTE:** Click on the Task text to mark it as completed.
