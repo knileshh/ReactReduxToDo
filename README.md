@@ -1,5 +1,5 @@
 # Simple React To-Do Application
-##[working live link](https://react-redux-to-a26o23sjt-knilesh9s-projects.vercel.app/)
+## [working live link](https://react-redux-to-a26o23sjt-knilesh9s-projects.vercel.app/)
 **Setup**
 1. Clone this repository
 `git clone https://github.com/knileshh/ReactReduxToDo.git`
