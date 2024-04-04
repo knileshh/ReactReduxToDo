@@ -28,5 +28,5 @@
 
 ## Demonstration:
 **NOTE:** Click on the Task text to mark it as completed.
-![Live Demo](https://github.com/knileshh/ReactReduxToDo/blob/main/public/Code_oqZZdCOTif.gif)
+![Live Demo](https://github.com/knileshh/ReactReduxToDo/blob/main/public/Code_vp1oIlPEJg.gif)
 
