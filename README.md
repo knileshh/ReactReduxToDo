@@ -25,3 +25,8 @@
 3. Utilized React hooks, functional components, and Redux actions/reducers for state management.
 4. **BONUS:** Incorporated persistent storage using localStorage to save tasks between page reloads.
 5. Styled the application with Tailwind CSS utility classes for a clean and visually appealing design.
+
+## Demonstration:
+**NOTE:** Click on the Task text to mark it as completed.
+![Live Demo](https://github.com/knileshh/ReactReduxToDo/blob/main/public/Code_oqZZdCOTif.gif)
+
